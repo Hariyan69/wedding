@@ -1624,7 +1624,7 @@ form{
 }
 
 
-@media screen and (max-width:600px) {
+@media screen and (max-width:769px) {
     #navi{
         width: 100%;
         gap: 1px;
